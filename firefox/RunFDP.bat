@@ -8,7 +8,7 @@ if %errorlevel% neq 0 (
 )
 
 REM Set the directory where the Python script is located
-set SCRIPT_DIR=C:\Path\To\Your\Script
+set SCRIPT_DIR=C:\VOX\Extensions\OnPlayer\Firefox
 
 REM Change to the script directory
 cd /d "%SCRIPT_DIR%"
