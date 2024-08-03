@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "OnPlayer",
+  "version": "1.0",
+  "description": "OnPlayer is an open source project that allows you to download MP4/MP3 files from YouTube using Python.",
+  "icons": {
+    "48": "icons/icon.png"
+  },
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": "icons/icon.png"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
